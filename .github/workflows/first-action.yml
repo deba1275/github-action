@@ -8,3 +8,5 @@ jobs:
         run: echo "Hello Mishi"
       - name: Say Goodbye
         run: echo "Goodnight Papa!!"
+      - name: Say Hello
+        run: ehco "hello"  
